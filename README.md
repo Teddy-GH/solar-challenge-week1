@@ -6,20 +6,29 @@
     - Install required dependencies using your preferred package manager 
        (e.g., `npm install` or `pip install -r requirements.txt`).
 
-2. **Feature Implementation**:  
+2. ## 📁 Project Structure
+
+    - `src/`: Core application code
+    - `tests/`: Unit and integration tests
+    - `scripts/`: Utility scripts
+    - `notebooks/`: Research and experiments
+    - `.github/workflows/`: CI pipeline configs
+    - `.vscode/`: Editor-specific configs
+
+3. **Feature Implementation**:  
     - Develop features incrementally.
     - Commit changes with clear messages.
     - Use branches for new features or bug fixes.
 
-3. **Testing**:  
+4. **Testing**:  
     - Write and run tests to ensure code quality.
     - Use automated testing tools where applicable.
 
-4. **Code Review**:  
+5. **Code Review**:  
     - Submit pull requests for review.
     - Address feedback and make necessary changes.
 
-5. **Deployment**:  
+6. **Deployment**:  
     - Deploy the application according to project requirements.
     - Monitor and maintain the deployed application.
 

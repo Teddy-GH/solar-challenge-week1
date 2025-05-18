@@ -56,4 +56,6 @@
     - Fork the repository and create a new branch for your feature or bug fix.
     - Submit a pull request with a detailed description of your changes.
 
-For more details, refer to the documentation or contact the project maintainers.
+6. **To run streamlit**:
+    - cd into src folder
+    - run streamlit run app/main.py
